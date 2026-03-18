@@ -1,1 +1,3 @@
 This is Example02.txt file
+
+And also 1 more line 
