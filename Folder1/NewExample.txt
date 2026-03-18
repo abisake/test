@@ -1,3 +1,2 @@
 This is a updated example.txt file
 
-Another line is added in example.txt
