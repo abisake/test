@@ -1,3 +1,5 @@
 this is a updated NewExample04.txt
 
 Adding one extra line
+
+Adding a line, changing from VSCode
